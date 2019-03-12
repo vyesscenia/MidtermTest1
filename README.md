@@ -1,7 +1,7 @@
 # IS183MidtermFiles
 
 ## Midterm Instructions (PART 2): 
-Last week, your boss mentioned that the company’s current website needs to be updated to current technology standards. The current website was built using pre HTML5 specs and with static table based layouts. Although this serves its purpose in the past, the current website does not properly display images and text on newer smart phones and mobile devices. This is why your boss has allocated $10,000 for a new professional website and because your boss knows that you are taking the IS183 Course this semester, she has put you in charge of designing and developing the new website.
+Last week, your employer mentioned that the company’s current website needs to be updated to current technology standards. The current website was built using pre HTML5 specs and with static table based layouts. Although this serves its purpose in the past, the current website does not properly display images and text on newer smart phones and mobile devices. Your employer has allocated $10,000 for a new professional website and because your boss knows that you are taking the IS183 Course this semester, she has put you in charge of designing and developing the new website.
 
 
 The website specifications includes the following:
@@ -25,7 +25,7 @@ The website specifications includes the following:
 2. Header (with your name as the Logo text) `(5 pts)`
 3. Footer (with copyright text) `(5 pts)`
 4. At least three `<p>` paragraph and one image `(5 pts)`
-5. At least one `<image>` image displayed on page.  `(5 pts)`
+5. At least one `<img>` image displayed on page.  `(5 pts)`
 
 ## Contact Us Page  `(25 pts total)`
 1. A one column layout page with a contact form.  `(5 pts)`
@@ -37,7 +37,7 @@ The website specifications includes the following:
 ## Product Grid Page  `(25 pts total)`
 1. A two column layout webpage with a table of all your product listings. (see specs below) `(10 pts)`
 2. Left sidebar (with working links to all your other pages e.g about, contact us, gallery etc.) `(5 pts)`
-3. Header (with your name as the Logo text) `(5 pts)`
+3. Header (with a logo of your business) `(5 pts)`
 4. Footer (with copyright text) `(5 pts)`
 
 
